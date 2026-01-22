@@ -43,7 +43,21 @@ financial-terminal/
 |  |__callbacks/
 |  |  |__news.py
 |  |  |__macro.py
+|  |  |
 |  |  |__calculators.py
+|  |  |  |__Receita Mensal Líquida
+|  |  |  |__Despesa Mensal Média
+|  |  |  |__Patrimônio Investido
+|  |  |  |__Capacidade de aporte
+|  |  |  |__Capacidade de Poupança
+|  |  |  |__IPCA
+|  |  |  |__SELIC
+|  |  |  |__Juro Real
+|  |  |  |__Patrimônio desejado
+|  |  |  |__Tempo necessário para alcançar o patrimônio desejado
+|  |  |  |__O quanto a inflação vai correr o patrimônio por ano
+|  |  |  |__Montante Final
+|  |  | 
 |  |  |__portfolio.py
 |  |  |__financial_health.py
 |  |  |__compound_interest.py
