@@ -1,0 +1,54 @@
+Elite Pro - Terminal de Inteligência financeira
+
+financial-terminal/
+|
+|__backend
+|
+|  |__api/
+|  |  |__news.py
+|  |  |__journals.py	
+|  |  |__calendar.py
+|  |  |__macro_brazil.py
+|  |  |__macro_global.py
+|  |  |__calculators.py
+|  |  |__financial_health.py
+|  |  |__compound_interest.py
+|  |  |__stocks.py
+|  |  |__stock_analysis.py
+|  |  |__stock_exchange.py	
+|  |  |__valuation.py
+|  |  |__funds.py
+|  |  |__backtesting.py
+|  |  |__risk_free.py
+|  |
+|  |  |__core/
+|  |  |  |__data_sources.py
+|  |  |  |__factor_models.py
+|  |  |  |__valuation.py
+|  |  |  |__dividends.py
+|  |  |  |__backtesting.py
+|  |  |  |__suitability.py
+|  |
+|  |  |__database/
+|  |  |  |__models.py
+|  |  |  |__session.py
+|  |  |  |__seed.py
+|  |
+|  |  |__scheduler/
+|  |  |  |__update_market_data.py
+|
+|__frontend
+|  |__app.py
+|  |__layout.py
+|  |__callbacks/
+|  |  |__news.py
+|  |  |__macro.py
+|  |  |__calculators.py
+|  |  |__portfolio.py
+|  |  |__financial_health.py
+|  |  |__compound_interest.py
+|  |  |__stocks.py
+|  |  |__funds.py
+|  |  |__dividends.py
+|  |  |__backtesting.py
+
