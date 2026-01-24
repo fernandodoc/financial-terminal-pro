@@ -52,6 +52,7 @@ financial-terminal/
 |  |  |  |  |__https://br.investing.com/equities
 |  |  |  |  |__https://www.economatica.com/
 |  |  |  |  |__https://valor.globo.com/valor-data/
+|  |  |  |  |__https://www.investsite.com.br/
 |  |  |  |  |__"https://www.institutoassaf.com.br/
 |  |  |  |  |__https://www.census.gov/econ/qfr/index.html
 |  |  |__macro.py
