@@ -55,6 +55,24 @@ financial-terminal/
 |  |  |  |  |__https://www.investsite.com.br/
 |  |  |  |  |__"https://www.institutoassaf.com.br/
 |  |  |  |  |__https://www.census.gov/econ/qfr/index.html
+|  |  |  |__Brasil
+|  |  |  |  |__https://www.infomoney.com.br/
+|  |  |  |  |__https://valor.globo.com/
+|  |  |  |  |__https://www.moneytimes.com.br/
+|  |  |  |  |__https://investnews.com.br/
+|  |  |  |  |__https://br.investing.com/
+|  |  |  |  |__https://www.bloomberglinea.com.br
+|  |  |  |  |__https://www.cnnbrasil.com.br/money/
+|  |  |  |__Global
+|  |  |  |  |__https://www.ft.com/
+|  |  |  |  |__https://www.bloomberg.com/markets
+|  |  |  |  |__https://www.economist.com/
+|  |  |  |  |__https://www.marketwatch.com/
+|  |  |  |  |__https://www.investopedia.com/
+|  |  |  |  |__https://www.reuters.com/
+|  |  |  |  |__https://www.nytimes.com/
+|  |  |  |  |__https://www.barrons.com/
+|  |  |  |  |__https://www.investors.com/
 |  |  |__macro.py
 |  |  |
 |  |  |__calculators.py
