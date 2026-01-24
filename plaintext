@@ -42,6 +42,18 @@ financial-terminal/
 |  |__layout.py
 |  |__callbacks/
 |  |  |__news.py
+|  |  |  |__Informações e fundamentos
+|  |  |  |  |__https://www.fundamentus.com.br/
+|  |  |  |  |__https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/empresas-listadas.htm
+|  |  |  |  |__https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAb.aspx?TipoConsult=c
+|  |  |  |  |__https://statusinvest.com.br/
+|  |  |  |  |__https://investidor10.com.br/
+|  |  |  |  |__https://br.advfn.com/
+|  |  |  |  |__https://br.investing.com/equities
+|  |  |  |  |__https://www.economatica.com/
+|  |  |  |  |__https://valor.globo.com/valor-data/
+|  |  |  |  |__"https://www.institutoassaf.com.br/
+|  |  |  |  |__https://www.census.gov/econ/qfr/index.html
 |  |  |__macro.py
 |  |  |
 |  |  |__calculators.py
